@@ -97,5 +97,6 @@ resourceSchema.methods.updateRating = function() {
     this.rating.count = this.reviews.length;
   }
 };
+#2
 
 module.exports = mongoose.model('Resource', resourceSchema);
