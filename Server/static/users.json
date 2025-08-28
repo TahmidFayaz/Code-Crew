@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Alex Johnson",
+    "email": "alex.johnson@example.com",
+    "password": "password123",
+    "role": "admin",
+    "bio": "Full-stack developer with 5+ years experience in web development. Passionate about AI and machine learning.",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Python",
+      "MongoDB",
+      "AI/ML"
+    ],
+    "experience": "advanced",
+    "github": "https://github.com/alexjohnson",
+    "linkedin": "https://linkedin.com/in/alexjohnson",
+    "portfolio": "https://alexjohnson.dev",
+    "personalityType": "leader",
+    "workStyle": "fullstack",
+    "availability": "full-time",
+    "location": "San Francisco, CA"
+  },
+  {
+    "name": "Sarah Chen",
+    "email": "sarah.chen@example.com",
+    "password": "password123",
+    "role": "user",
+    "bio": "Frontend developer and UI/UX designer. Love creating beautiful and intuitive user experiences.",
+    "skills": [
+      "React",
+      "Vue.js",
+      "CSS",
+      "Figma",
+      "TypeScript",
+      "Design Systems"
+    ],
+    "experience": "intermediate",
+    "github": "https://github.com/sarahchen",
+    "linkedin": "https://linkedin.com/in/sarahchen",
+    "portfolio": "https://sarahchen.design",
+    "personalityType": "innovator",
+    "workStyle": "frontend",
+    "availability": "part-time",
+    "location": "New York, NY"
+  },
+  {
+    "name": "Mike Rodriguez",
+    "email": "mike.rodriguez@example.com",
+    "password": "password123",
+    "role": "user",
+    "bio": "Backend engineer specializing in scalable systems and cloud architecture.",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "PostgreSQL"
+    ],
+    "experience": "advanced",
+    "github": "https://github.com/mikerodriguez",
+    "linkedin": "https://linkedin.com/in/mikerodriguez",
+    "personalityType": "executor",
+    "workStyle": "backend",
+    "availability": "weekends",
+    "location": "Austin, TX"
+  },
+  {
+    "name": "Emma Wilson",
+    "email": "emma.wilson@example.com",
+    "password": "password123",
+    "role": "user",
+    "bio": "Data scientist and machine learning enthusiast. Currently pursuing PhD in Computer Science.",
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "R",
+      "SQL",
+      "Data Visualization"
+    ],
+    "experience": "intermediate",
+    "github": "https://github.com/emmawilson",
+    "linkedin": "https://linkedin.com/in/emmawilson",
+    "personalityType": "analyst",
+    "workStyle": "data",
+    "availability": "part-time",
+    "location": "Boston, MA"
+  },
+  {
+    "name": "David Kim",
+    "email": "david.kim@example.com",
+    "password": "password123",
+    "role": "user",
+    "bio": "Mobile app developer with expertise in both iOS and Android platforms.",
+    "skills": [
+      "Swift",
+      "Kotlin",
+      "React Native",
+      "Flutter",
+      "Firebase",
+      "Mobile UI/UX"
+    ],
+    "experience": "intermediate",
+    "github": "https://github.com/davidkim",
+    "linkedin": "https://linkedin.com/in/davidkim",
+    "personalityType": "collaborator",
+    "workStyle": "mobile",
+    "availability": "full-time",
+    "location": "Seattle, WA"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "name": "AI Innovators",
+    "description": "We're building the next generation of AI-powered healthcare solutions. Looking for passionate developers who want to make a real impact.",
+    "maxMembers": 5,
+    "requiredSkills": [
+      "Python",
+      "Machine Learning",
+      "Healthcare Domain"
+    ],
+    "status": "recruiting",
+    "tags": [
+      "AI",
+      "Healthcare",
+      "Machine Learning",
+      "Innovation"
+    ],
+    "projectIdea": "Developing an AI-powered diagnostic tool that can analyze medical images and provide preliminary assessments to assist healthcare professionals.",
+    "githubRepo": "https://github.com/ai-innovators/healthcare-ai"
+  },
+  {
+    "name": "Green Code Warriors",
+    "description": "Passionate about sustainability and clean technology. We're creating solutions to combat climate change through innovative software.",
+    "maxMembers": 4,
+    "requiredSkills": [
+      "JavaScript",
+      "React",
+      "Environmental Science"
+    ],
+    "status": "recruiting",
+    "tags": [
+      "Sustainability",
+      "Environment",
+      "Clean Tech",
+      "Climate"
+    ],
+    "projectIdea": "Building a carbon footprint tracking app that gamifies sustainable living and connects users with local green initiatives.",
+    "githubRepo": "https://github.com/green-warriors/carbon-tracker"
+  },
+  {
+    "name": "FinTech Pioneers",
+    "description": "Experienced team working on revolutionary financial technology solutions. We combine deep financial knowledge with cutting-edge tech.",
+    "maxMembers": 6,
+    "requiredSkills": [
+      "Blockchain",
+      "Smart Contracts",
+      "Financial Modeling"
+    ],
+    "status": "full",
+    "tags": [
+      "FinTech",
+      "Blockchain",
+      "DeFi",
+      "Payments"
+    ],
+    "projectIdea": "Creating a decentralized lending platform that uses AI to assess creditworthiness without traditional credit scores.",
+    "githubRepo": "https://github.com/fintech-pioneers/defi-lending"
+  },
+  {
+    "name": "Mobile Masters",
+    "description": "Cross-platform mobile development team focused on creating intuitive and performant mobile applications.",
+    "maxMembers": 4,
+    "requiredSkills": [
+      "React Native",
+      "Flutter",
+      "Mobile UI/UX"
+    ],
+    "status": "recruiting",
+    "tags": [
+      "Mobile",
+      "Cross-platform",
+      "UI/UX",
+      "Performance"
+    ],
+    "projectIdea": "Building a social networking app for hackathon participants to find teammates and collaborate on projects.",
+    "githubRepo": "https://github.com/mobile-masters/hackathon-social"
+  },
+  {
+    "name": "Data Wizards",
+    "description": "Data science and analytics team specializing in extracting insights from complex datasets and building predictive models.",
+    "maxMembers": 3,
+    "requiredSkills": [
+      "Python",
+      "Data Science",
+      "Machine Learning",
+      "Statistics"
+    ],
+    "status": "recruiting",
+    "tags": [
+      "Data Science",
+      "Analytics",
+      "ML",
+      "Visualization"
+    ],
+    "projectIdea": "Creating a platform that analyzes hackathon project success patterns to help teams optimize their approach.",
+    "githubRepo": "https://github.com/data-wizards/hackathon-analytics"
+  }
+]

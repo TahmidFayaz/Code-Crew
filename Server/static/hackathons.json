@@ -1,0 +1,150 @@
+[
+  {
+    "title": "AI Innovation Challenge 2025",
+    "description": "Build innovative AI solutions that solve real-world problems. Focus on machine learning, natural language processing, and computer vision applications.",
+    "organizer": "TechCorp Inc.",
+    "startDate": "2025-03-15T00:00:00.000Z",
+    "endDate": "2025-03-17T23:59:59.000Z",
+    "registrationDeadline": "2025-03-10T23:59:59.000Z",
+    "location": "hybrid",
+    "venue": "TechCorp Campus, San Francisco",
+    "maxParticipants": 500,
+    "themes": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Healthcare",
+      "Education"
+    ],
+    "prizes": [
+      {
+        "position": "1st Place",
+        "amount": "$10,000",
+        "description": "Grand Prize Winner"
+      },
+      {
+        "position": "2nd Place",
+        "amount": "$5,000",
+        "description": "Runner Up"
+      },
+      {
+        "position": "3rd Place",
+        "amount": "$2,500",
+        "description": "Third Place"
+      }
+    ],
+    "rules": "Teams of 2-5 members. Original code only. 48-hour development window.",
+    "requirements": [
+      "Laptop",
+      "GitHub Account",
+      "Presentation Skills"
+    ],
+    "tags": [
+      "AI",
+      "ML",
+      "Innovation",
+      "Tech"
+    ],
+    "difficulty": "intermediate",
+    "website": "https://techcorp.com/hackathon",
+    "contactEmail": "hackathon@techcorp.com",
+    "status": "upcoming"
+  },
+  {
+    "title": "Green Tech Hackathon",
+    "description": "Create sustainable technology solutions for environmental challenges. Focus on clean energy, waste reduction, and climate change mitigation.",
+    "organizer": "EcoTech Foundation",
+    "startDate": "2025-04-20T00:00:00.000Z",
+    "endDate": "2025-04-22T23:59:59.000Z",
+    "registrationDeadline": "2025-04-15T23:59:59.000Z",
+    "location": "online",
+    "maxParticipants": 300,
+    "themes": [
+      "Sustainability",
+      "Clean Energy",
+      "Environment",
+      "Climate Change"
+    ],
+    "prizes": [
+      {
+        "position": "1st Place",
+        "amount": "$8,000",
+        "description": "Best Green Solution"
+      },
+      {
+        "position": "2nd Place",
+        "amount": "$4,000",
+        "description": "Most Innovative"
+      },
+      {
+        "position": "People's Choice",
+        "amount": "$2,000",
+        "description": "Community Favorite"
+      }
+    ],
+    "rules": "Open to all skill levels. Focus on environmental impact. Must include sustainability metrics.",
+    "requirements": [
+      "Internet Connection",
+      "Development Environment"
+    ],
+    "tags": [
+      "Green",
+      "Sustainability",
+      "Environment",
+      "Innovation"
+    ],
+    "difficulty": "all-levels",
+    "website": "https://ecotech.org/hackathon",
+    "contactEmail": "green@ecotech.org",
+    "status": "upcoming"
+  },
+  {
+    "title": "FinTech Innovation Sprint",
+    "description": "Revolutionize financial services with cutting-edge technology. Build solutions for banking, payments, investments, and financial inclusion.",
+    "organizer": "FinTech Alliance",
+    "startDate": "2025-05-10T00:00:00.000Z",
+    "endDate": "2025-05-12T23:59:59.000Z",
+    "registrationDeadline": "2025-05-05T23:59:59.000Z",
+    "location": "in-person",
+    "venue": "Financial District, New York",
+    "maxParticipants": 200,
+    "themes": [
+      "Financial Technology",
+      "Blockchain",
+      "Digital Payments",
+      "Investment Tech"
+    ],
+    "prizes": [
+      {
+        "position": "1st Place",
+        "amount": "$15,000",
+        "description": "Best FinTech Solution"
+      },
+      {
+        "position": "2nd Place",
+        "amount": "$7,500",
+        "description": "Most Scalable"
+      },
+      {
+        "position": "3rd Place",
+        "amount": "$3,500",
+        "description": "Best User Experience"
+      }
+    ],
+    "rules": "Teams of 3-6 members. Must comply with financial regulations. Real-world applicability required.",
+    "requirements": [
+      "Financial Domain Knowledge",
+      "Development Skills",
+      "Pitch Deck"
+    ],
+    "tags": [
+      "FinTech",
+      "Blockchain",
+      "Payments",
+      "Banking"
+    ],
+    "difficulty": "advanced",
+    "website": "https://fintechalliance.com/hackathon",
+    "contactEmail": "hackathon@fintechalliance.com",
+    "status": "upcoming"
+  }
+]
