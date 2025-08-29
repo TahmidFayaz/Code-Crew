@@ -73,8 +73,15 @@ Built with a **React frontend** ⚛️ and **Node.js/Express backend** 🛠️, 
 ### 🖥️ Client Setup
 ```bash
 cd Client
-npm install   # or yarn install
-npm run dev   # or yarn dev
+npm install   
+npm run dev   
+
+```
+### ⚙️ Server Setup
+```bash
+cd Server
+npm install  
+npm run dev   
 
 
 
