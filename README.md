@@ -1,4 +1,4 @@
-# 🚀 Code Crew
+# 💻 Code Crew
 
 A **full-stack hackathon management platform** designed to make team collaboration, blogging, and event organization seamless.  
 Built with a **React frontend** ⚛️ and **Node.js/Express backend** 🛠️, Code Crew helps participants, teams, and admins manage everything in one place.
